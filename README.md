@@ -399,6 +399,8 @@ Shows customer classification into:
 
 
 
+<img width="1764" height="418" alt="image" src="https://github.com/user-attachments/assets/e0649531-5642-46e1-9ef3-7e089f111e51" />
+
 
 
 ---
@@ -409,13 +411,29 @@ Shows customer classification into:
 
 Evaluates how age alone predicts insurance charges.
 
+
+
+<img width="571" height="372" alt="image" src="https://github.com/user-attachments/assets/75fff7d0-0319-4db6-9678-365f05f185b6" />
+
+
+
+
 ### Multiple Linear Regression
 
 Evaluates how multiple factors improve prediction accuracy.
 
+
+
+<img width="1762" height="420" alt="image" src="https://github.com/user-attachments/assets/2b39fe8a-106d-453c-938c-4b68398a515b" />
+
+
+
 ### Logistic Regression
 
 Evaluates customer classification performance.
+
+<img width="427" height="362" alt="image" src="https://github.com/user-attachments/assets/7e527fbd-e3e4-4c38-a831-6ce31c7cb4dc" />
+
 
 ---
 
@@ -425,37 +443,95 @@ Evaluates customer classification performance.
 
 Interactive chart displaying charge distribution.
 
+
+
+<img width="1762" height="418" alt="image" src="https://github.com/user-attachments/assets/dbcdbf3b-c643-487a-a5fd-89a40cd537e6" />
+
+
+
+
 ### Age vs Charges Analysis
 
 Interactive scatter plot for age and insurance charges.
+
+
+
+<img width="1765" height="422" alt="image" src="https://github.com/user-attachments/assets/be8b7434-04dc-41c3-9858-a902a581bc2b" />
+
+
+
 
 ### BMI vs Charges Analysis
 
 Interactive BMI impact visualization.
 
+
+
+<img width="1762" height="421" alt="image" src="https://github.com/user-attachments/assets/5a117120-3063-444f-818a-69ecb6ba2cff" />
+
+
+
+
 ### Smoker vs Non-Smoker Comparison
 
 Interactive comparison of smoking impact.
+
+
+
+<img width="1759" height="422" alt="image" src="https://github.com/user-attachments/assets/e50b794c-9f5a-4ff9-8447-a120f46781d0" />
+
+
+
 
 ### Region-Wise Charges
 
 Regional insurance cost comparison.
 
+
+<img width="1760" height="420" alt="image" src="https://github.com/user-attachments/assets/c22cc70d-b7fe-4b54-994b-21c3b6f8081e" />
+
+
+
 ### Gender-Wise Charges
 
 Gender-based insurance charge analysis.
+
+
+
+<img width="1762" height="424" alt="image" src="https://github.com/user-attachments/assets/0cd650ee-0069-4c6d-8d5f-f88072afbd99" />
+
+
+
 
 ### Correlation Heatmap
 
 Interactive feature relationship analysis.
 
+
+
+
+<img width="1771" height="425" alt="image" src="https://github.com/user-attachments/assets/a0ca87e8-a1d1-457e-87f4-5914634d3ccd" />
+
+
+
+
 ### Risk Level Analysis
 
 Customer risk category visualization.
 
+
+
+<img width="1760" height="421" alt="image" src="https://github.com/user-attachments/assets/1a26fa16-017b-4e22-aaa4-df5eb3e241e9" />
+
+
+
+
 ### Dynamic Data Exploration
 
 Allows users to explore customer behavior interactively.
+
+
+
 
 ---
 
