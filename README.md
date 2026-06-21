@@ -263,11 +263,28 @@ The system identifies customers likely to generate higher medical expenses and i
 
 Displays the distribution of customer ages.
 
+
+
+<img width="1764" height="418" alt="image" src="https://github.com/user-attachments/assets/ac26e9ab-b79c-42f6-97d3-a918fb351e91" />
+
+
+
+
+
 ---
 
 ## BMI DISTRIBUTION
 
 Shows how BMI values are distributed among customers.
+
+
+
+
+
+<img width="1765" height="419" alt="image" src="https://github.com/user-attachments/assets/01410d11-8df7-4e51-bc13-9fd1886235cd" />
+
+
+
 
 ---
 
@@ -275,11 +292,26 @@ Shows how BMI values are distributed among customers.
 
 Displays the frequency of insurance charges.
 
+
+
+
+<img width="1762" height="416" alt="image" src="https://github.com/user-attachments/assets/d70a4f92-bc83-495b-9f2e-414f5d9008c4" />
+
+
+
+
 ---
 
 ## AGE VS INSURANCE CHARGES
 
 Illustrates how insurance charges change with age.
+
+
+
+<img width="1767" height="412" alt="image" src="https://github.com/user-attachments/assets/8084c368-38ef-450b-981d-fe53b5996126" />
+
+
+
 
 ---
 
@@ -287,11 +319,26 @@ Illustrates how insurance charges change with age.
 
 Shows the relationship between BMI and insurance premiums.
 
+
+
+<img width="1764" height="421" alt="image" src="https://github.com/user-attachments/assets/dc7a888f-3977-463c-b821-629f55827cd4" />
+
+
+
+
 ---
 
 ## REGION-WISE CHARGES
 
 Compares average insurance charges across different regions.
+
+
+
+
+<img width="1769" height="421" alt="image" src="https://github.com/user-attachments/assets/fc3d4ba5-c8b5-4ef2-adc8-917ccc15a66d" />
+
+
+
 
 ---
 
@@ -299,17 +346,45 @@ Compares average insurance charges across different regions.
 
 Highlights the impact of smoking on insurance charges.
 
+
+
+
+
+<img width="1767" height="423" alt="image" src="https://github.com/user-attachments/assets/1b069817-54ba-420d-abf4-8b2dcf77a7c1" />
+
+
+
+
+
+
 ---
 
 ## OUTLIER DETECTION
 
 Uses Box Plot to identify unusual insurance charges.
 
+
+
+
+<img width="1758" height="412" alt="image" src="https://github.com/user-attachments/assets/7604b565-e6cf-4c98-876c-082a93241af6" />
+
+
+
+
+
 ---
 
 ## CORRELATION HEATMAP
 
 Displays relationships among all insurance variables.
+
+
+
+<img width="1761" height="416" alt="image" src="https://github.com/user-attachments/assets/3486a551-1c32-4294-bfaf-0bf199cafb7c" />
+
+
+
+
 
 ---
 
@@ -320,6 +395,11 @@ Shows customer classification into:
 * Low Cost
 * Medium Cost
 * High Cost
+
+
+
+
+
 
 ---
 
